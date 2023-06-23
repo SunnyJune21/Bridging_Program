@@ -1,4 +1,4 @@
-# My Python Learning Repository
+# Sonia's Python Learning Repository
 Welcome to my Python Learning Repository! This repository is a collection of coding exercises and projects that represent my journey as a Python student. It serves as a comprehensive showcase of my coding skills and knowledge, providing a valuable resource for potential employers to assess my abilities.
 
 ## About the Repository
