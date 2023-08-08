@@ -1,4 +1,4 @@
-# 2023 Estimated Canadian Income Tax for Individuals - High-level calculation - Project created by Sonia0214
+# 2023 Estimated Canadian Income Tax for Individuals - High-level calculation - Project created by Sonialyc
 
 This project calculates the estimated Canadian income tax (Federal and Ontario taxes) for individuals in 2023. It provides a high-level estimation based on the annual gross salary provided by the user. Please note that this calculator is for estimation purposes only and should not be used for actual tax filing.
 

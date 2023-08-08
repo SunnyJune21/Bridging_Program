@@ -1,4 +1,4 @@
-# QR Code Encoder and Decoder - Project created by Sonia0214
+# QR Code Encoder and Decoder - Project created by Sonialyc
 This project consists of two Python scripts: **QR Code Encoder** and **QR Code Decoder**. These scripts allow you to encode and decode QR codes using the provided data.
 
 ## QR Code Encoder
